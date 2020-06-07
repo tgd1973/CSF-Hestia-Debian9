@@ -1,5 +1,5 @@
 #!/bin/bash
-# Made by Steven Sullivan
+# Made by Steven Sullivan / modified by tgd1973
 # Copyright Steven Sullivan Ltd
 # Version: 1.0
 
