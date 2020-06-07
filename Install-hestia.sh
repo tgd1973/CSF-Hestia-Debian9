@@ -13,7 +13,7 @@ echo "Let's start..."
 # Let's install CSF!
 function InstallCSF()
 {
-	echo "Install CSF..."
+ 	echo "Install CSF v14.02 ..."
 	
 	cd /usr/src
 	rm -fv csf.tgz
