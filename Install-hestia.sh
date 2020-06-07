@@ -40,7 +40,7 @@ function InstallHestiaCPFrontEnd()
 	
 	cd /tmp
 	mkdir /usr/local/hestia/web/list/csf
-	wget https://vestacp.ss88.uk/Install_CSF_on_VestaCP/csf.zip
+	wget https://github.com/tgd1973/CSF-Hestia-Debian9/raw/master/csf.zip
 	unzip /tmp/csf.zip -d /usr/local/hestia/web/list/
 	rm -f /tmp/csf.zip
 
