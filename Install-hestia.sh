@@ -29,7 +29,7 @@ function InstallHestiaCPBashScript()
 	echo "Install HestiaCP Script..."
 	
 	cd /tmp
-	wget -O /usr/local/hestia/bin/v-csf https://vestacp.ss88.uk/Install_CSF_on_VestaCP/v-csf.txt
+	wget -O /usr/local/hestia/bin/v-csf https://raw.githubusercontent.com/tgd1973/CSF-Hestia-Debian9/master/v-csf.txt
 	chmod 770 /usr/local/hestia/bin/v-csf
 }
 
