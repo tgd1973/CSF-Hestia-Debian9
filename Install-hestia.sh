@@ -52,7 +52,7 @@ function InstallHestiaCPFrontEnd()
 	if grep -q 'CSF' /usr/local/hestia/web/templates/admin/panel.html; then
 		echo 'Already there.'
 	else
-		sed -i '/<div class="l-menu clearfix noselect">/a <div class="l-menu__item <?php if($TAB == "CSF" ) echo "l-menu__item--active" ?>"><a href="/list/csf/"><?=__("CSF")?></a></div>' /usr/local/vesta/web/templates/admin/panel.html
+		sed -i '/<div class="l-menu clearfix noselect">/a <div class="l-menu__item <?php if($TAB == "CSF" ) echo "l-menu__item--active" ?>"><a href="/list/csf/"><?=__("CSF")?></a></div>' /usr/local/hestia/web/templates/admin/panel.html
 	fi
 }
 
