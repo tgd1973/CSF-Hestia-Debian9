@@ -12,3 +12,12 @@ wget https://github.com/tgd1973/CSF-Hestia-Debian/raw/master/Install-hestia.sh -
 chmod 777 ./Install.sh
 sudo ./Install.sh
 ```
+
+To uninstall CSF:
+```
+cd /usr/src/csf
+```
+```
+sh uninstall.hestia.sh
+sh uninstall.sh
+```
