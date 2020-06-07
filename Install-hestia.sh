@@ -17,7 +17,7 @@ function InstallCSF()
 	
 	cd /usr/src
 	rm -fv csf.tgz
-	wget https://github.com/tgd1973/CSF-Hestia-Debian/raw/master/csf.tgz
+	wget https://github.com/tgd1973/CSF-Hestia-Debian9/raw/master/csf.tgz
 	tar -xzf csf.tgz
 	cd csf
 	sh install.sh
