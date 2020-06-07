@@ -1,5 +1,5 @@
 # CSF-Hestia-Debian-9
-Install CSF on Hestia Debian 9 (Stretch)
+Install CSF v14.02 on Hestia Debian 9 (Stretch)
 
 IT IS ALWAYS A GOOD IDEA TO BACKUP EVERYTHING. BACKUP CSF + HestiaCP
 
