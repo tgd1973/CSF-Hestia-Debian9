@@ -2,6 +2,8 @@
 Install On Hestia Debian
 
 IT IS ALWAYS A GOOD IDEA TO BACKUP EVERYTHING. BACKUP CSF + HestiaCP
+
+As the root write in termnal:
 ```
 cd /usr/src/
 ```
