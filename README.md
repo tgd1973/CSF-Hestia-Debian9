@@ -8,7 +8,7 @@ As the root write in termnal:
 cd /usr/src/
 ```
 ```
-wget https://github.com/tgd1973/CSF-Hestia-Debian/raw/master/Install-hestia.sh -O ./Install_Tools.sh
+wget https://github.com/tgd1973/CSF-Hestia-Debian/raw/master/Install-hestia.sh -O ./Install.sh
 chmod 777 ./Install.sh
 sudo ./Install.sh
 ```
